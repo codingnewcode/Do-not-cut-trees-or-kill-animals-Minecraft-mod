@@ -1,11 +1,19 @@
-# Do-not-cut-trees-or-kill-animals-Minecraft-mod
+# Java lessons for minecraft modding from Kaupenjoe
 Reviewing Java fundamentals following Kaupenjoe's pre Minecraft modding [Java lessons](https://www.youtube.com/playlist?list=PLKGarocXCE1Egp6soRNlflWJWc44sau40)
+
+## Why i started this project
 
 This is a set of Java lessons i wanted to take in order to start my own Minecraft mod, i needed to refresh my Java knowledge since i hadn't coded for quite some time (a few years), and possibly explore if i would go into developing or maybe more generally IT career again.
 
-It was a lot of fun, the teacher was really engaging and i found the topics interesting. I finally decided not to go with the modding idea, but i found these lessons very instructive.
+It was a lot of fun, the teacher was really engaging and i found the topics interesting. I eventually decided not to go with the modding idea, but i found these lessons very instructive.
 
-My idea was to create a mod where you had to survive on Minecraft without killing animals or cutting trees, hence adding new items in the game. I stopped this project, after completing all the lessons, partly because i was not vegetarian anymore, and later on i would start to cut some trees indirectly by buying them, even though i try not to resort to doing so if possible. This was also around Christmas time where lots of trees are cut which i find needless, as they are not used in furniture or eaten like animals we kill (or used in other parts even though not ideal it seems sometimes to be needed maybe but is my own opinion on the topic).
+My idea was to create a mod where you had to survive on Minecraft without killing animals or cutting trees, hence adding new items in the game. I found this idea interesting because i was a vegetarian at the time, and it was around Christmas time which involves cutting many trees, which i like to avoid if possible. I hated the idea especially at that time, they are not used in furniture or eaten like animals we kill (or used in other parts even though not ideal it seems sometimes to be needed maybe but is my own opinion on the topic).
+
+## Finishing this project and after
+
+I stopped this project after completing all the lessons, partly because i was not a vegetarian anymore. And later on i would start to cut some trees indirectly by buying them, even though i try not to resort to doing so if possible. Gradually the old name "Do-not-cut-trees-or-kill-animals-Minecraft-mod" made less and less sense so i renamed it today to better reflect its purpose and what i took from it.
+
+I wanted to try other things for some time, but it was nice refreshing my knowledge, and learning a lot of things again, i really enjoyed it.
 
 After that i went on a little coding break, at least in Java, until May 2024, date of which i am publishing this, but i wanted to reflect that i worked on this earlier. Hence i learned another thing which was fun to try too (even though a tiny bit scary in possibilities), to go back in time, at least in git commits.
 
