@@ -26,7 +26,7 @@ So i followed some instructions i found online, and found other help and resourc
 - i needed to modify date and time to my own time's, which i found on the local files on my drive, then i needed to update codewithhugo's instruction's timezone to mine, which i found to be named CEST thanks to [timezones-list git](https://github.com/omsrivastava/timezones-list) which mentions [wikipedia timezones abbreviations](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
 - with this i could modify it to `GIT_COMMITTER_DATE="Mon 1 Jan 2024 10:36:08 CEST" git commit --amend --no-edit --date "Mon 1 Jan 2024 10:36:08 CEST"` and `GIT_COMMITTER_DATE="Fri 26 Jan 2024 20:07:51 CEST" git commit --amend --no-edit --date "Fri 26 Jan 2024 20:07:51 CEST"` in this example.
 
-I added a few [screenshots](./pictures) to document how i managed to do this, such as the one below:
+I added a few [screenshots](./pictures) to document how i managed to do this, such as the one below with the original time and date from the instructions first:
 
 ![go back in time example in image of git commit](./pictures/git%20bash%20change%20commit%20time%20example%200v2.PNG)
 
