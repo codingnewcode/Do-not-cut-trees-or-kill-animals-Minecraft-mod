@@ -36,7 +36,7 @@ VS Code preview allows me to add image files (pictures) with a local link and ma
 
 All in all this experiment of January 2024, and this new one in May 2024 changing date retroactively, really comforts me in the fact i enjoy always exploring new things, it's a lot of fun to tweak and create new stuff all the time, even though maybe be bit scary at first, but tweaking is a lot of fun, documenting it too, but tweaking too.
 
-Also many things i learned in this project i find helpful again today such as using intellij (i used only eclipse IDE before), the paths where java classes are stored, casting, instanciation and such, the var keyword (i didn't know it existed in Java, even though i knew it before in JavaScript), even though they may be basic, feel now natural and familiar, i find them handy in the spring course lesson i am taking now, which is part of the reason i wanted to honor this on this github repository too, and maybe most importantly enjoyable.
+Also many things i learned in this project i find helpful again today such as using intellij (i used only eclipse IDE before), the paths where java classes are stored, casting, instanciation and such, the var keyword (i didn't know it existed in Java, even though i knew it before in JavaScript), even though they may be basic, feel now natural and familiar, i find them handy in the spring course lesson i am taking now, which is part of the reason i wanted to honor this on this github repository too (also if i want to look at it as a future reference or information or looking back on it), and maybe most importantly enjoyable.
 
 # Environment
 
