@@ -1,4 +1,4 @@
-# Java lessons for minecraft modding from Kaupenjoe
+# Java-lessons-for-minecraft-modding-from-Kaupenjoe
 Reviewing Java fundamentals following Kaupenjoe's pre Minecraft modding [Java lessons](https://www.youtube.com/playlist?list=PLKGarocXCE1Egp6soRNlflWJWc44sau40)
 
 ## Why i started this project
@@ -31,7 +31,11 @@ I added a few [screenshots](./pictures) to document how i managed to do this, su
 
 VS Code preview allows me to add image files (pictures) with a local link and make sure the display works.
 
+# All in all
+
 All in all this experiment of January 2024, and this new one in May 2024 changing date retroactively, really comforts me in the fact i enjoy always exploring new things, it's a lot of fun to tweak and create new stuff all the time, even though maybe be bit scary at first, but tweaking is a lot of fun, documenting it too, but tweaking too.
+
+Also many things i learned in this project i find helpful again today such as using intellij (i used only eclipse IDE before), the paths where java classes are stored, casting, instanciation and such, the var keyword (i didn't know it existed in Java, even though i knew it before in JavaScript), even though they may be basic, feel now natural and familiar, i find them handy in the spring course lesson i am taking now, and maybe most importantly enjoyable.
 
 # Environment
 
