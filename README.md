@@ -29,4 +29,5 @@ All in all this experiment of January 2024, and this new one in May 2024 changin
 
 - Windows 10
 - IntelliJ Community Edition
-- Git Bash
+- Git Bash,
+- Text editors: notepad++ for committing, VS Code for github markdown writing
