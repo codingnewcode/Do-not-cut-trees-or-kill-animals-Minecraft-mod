@@ -24,6 +24,7 @@ So i followed some instructions i found online, and found other help and resourc
 - [reddit link](https://www.reddit.com/r/github/comments/9kcc1r/comment/e6zh4b6/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button/)
 - which redirects to [codewithhugo.com's instructions](https://codewithhugo.com/change-the-date-of-a-git-commit/#set-the-date-of-the-last-commit-to-an-arbitrary-date)
 - i needed to modify date and time to my own time's, which i found on the local files on my drive, then i needed to update codewithhugo's instruction's timezone to mine, which i found to be named CEST thanks to [timezones-list git](https://github.com/omsrivastava/timezones-list) which mentions [wikipedia timezones abbreviations](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
+- with this i could modify it to `GIT_COMMITTER_DATE="Mon 1 Jan 2024 10:36:08 CEST" git commit --amend --no-edit --date "Mon 1 Jan 2024 10:36:08 CEST"` and `GIT_COMMITTER_DATE="Fri 26 Jan 2024 20:07:51 CEST" git commit --amend --no-edit --date "Fri 26 Jan 2024 20:07:51 CEST"` in this example.
 
 I added a few [screenshots](./pictures) to document how i managed to do this, such as the one below:
 
@@ -35,7 +36,7 @@ VS Code preview allows me to add image files (pictures) with a local link and ma
 
 All in all this experiment of January 2024, and this new one in May 2024 changing date retroactively, really comforts me in the fact i enjoy always exploring new things, it's a lot of fun to tweak and create new stuff all the time, even though maybe be bit scary at first, but tweaking is a lot of fun, documenting it too, but tweaking too.
 
-Also many things i learned in this project i find helpful again today such as using intellij (i used only eclipse IDE before), the paths where java classes are stored, casting, instanciation and such, the var keyword (i didn't know it existed in Java, even though i knew it before in JavaScript), even though they may be basic, feel now natural and familiar, i find them handy in the spring course lesson i am taking now, and maybe most importantly enjoyable.
+Also many things i learned in this project i find helpful again today such as using intellij (i used only eclipse IDE before), the paths where java classes are stored, casting, instanciation and such, the var keyword (i didn't know it existed in Java, even though i knew it before in JavaScript), even though they may be basic, feel now natural and familiar, i find them handy in the spring course lesson i am taking now, which is part of the reason i wanted to honor this on this github repository too, and maybe most importantly enjoyable.
 
 # Environment
 
